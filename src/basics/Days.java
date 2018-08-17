@@ -18,9 +18,9 @@ public class Days {
 		case "Wednesday":
 			System.out.println("Today is Wednesday");
 			break;
-		
+		    
 		}
-		
+		System.out.println("Just testing GIT");
 
 	}
 

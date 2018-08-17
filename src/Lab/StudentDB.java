@@ -4,7 +4,7 @@ public class StudentDB {
 
 	private String name;
 	private String email;
-	private static String id = "123";
+	private static String id = "1000";
 	private String ssn;
 	private String phone = "not communicated";
 	private String city = "not communicated";
